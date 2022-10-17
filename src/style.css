@@ -1,0 +1,26 @@
+  /* color:'red',
+  fontSize: "100px",
+  backgroundColor:"black"
+        */
+   /* h1{
+    color:aqua;
+    font-size: 100px;
+    background-color: rgb(28, 28, 24);
+
+   }     
+   #root{
+    background-color: brown;
+   } */
+   .container{
+    margin-top: 20px;
+   }
+   div{
+    margin-bottom: 10px;
+
+   }
+   label{
+    padding-left: 10px;
+   }
+   input[type='checkbox']{
+    margin-left: 20px;
+   }
